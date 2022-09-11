@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("Задание1");
+        System.out.println("Задание 1");
 
         int clientOS = 0;
 
